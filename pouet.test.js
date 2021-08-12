@@ -5,6 +5,6 @@ describe('pouet test', () => {
 	  expect(pouet()).toBe(12)
   })
   test('calling pouet return 42', () => {
-    expect(pouet2()).toBe(0)
+    expect(pouet2()).toBe(42)
   })
 })
